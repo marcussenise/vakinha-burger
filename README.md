@@ -17,5 +17,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # vakinha-burger
+<<<<<<< HEAD
 Aplicativo de delivery de um lanchonete, com pagamento pelo Pix integrado.
 >>>>>>> fa3153a7bda362180fb55195874f080c08614557
+=======
+Aplicativo Flutter de delivery de um lanchonete, com pagamento pelo Pix integrado.
+>>>>>>> c9be4a004b3a507c363080076fdfe50191f1e7a7
