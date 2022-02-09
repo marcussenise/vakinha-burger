@@ -1,2 +1,2 @@
 # vakinha-burger
-Aplicativo de delivery de um lanchonete, com pagamento pelo Pix integrado.
+Aplicativo Flutter de delivery de um lanchonete, com pagamento pelo Pix integrado.
