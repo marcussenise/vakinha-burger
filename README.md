@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vakinha_burger_mobile
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# vakinha-burger
+Aplicativo de delivery de um lanchonete, com pagamento pelo Pix integrado.
+>>>>>>> fa3153a7bda362180fb55195874f080c08614557
