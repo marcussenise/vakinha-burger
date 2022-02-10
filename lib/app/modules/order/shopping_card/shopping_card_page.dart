@@ -216,6 +216,7 @@ class _CpfField extends GetView<ShoppingCardController> {
             ),
             TextFormField(
               autovalidateMode: AutovalidateMode.onUserInteraction,
+              keyboardType: TextInputType.number,
               onChanged: (value){
                 controller.cpf = value;
               },
